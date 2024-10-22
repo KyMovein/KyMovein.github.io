@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: KY MoveIn
+  copyright: Star Pleasure
   location: Location
   #social: Around the Web
   #credits: Credits
@@ -53,8 +53,8 @@ footer:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Collins Street
-  - line: Melbourne, VIC 3000
+  - line: 61 Trade Place
+  - line: Coburg North VIC 3058
 
 # Credits content
 credits: ''
